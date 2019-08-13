@@ -1,5 +1,5 @@
 
-you and I password
+you   I password
 
 password: 123
 
@@ -7,4 +7,4 @@ passwordstr=''
 
 wdpr.disney.com
 
-this is not for  you 
+this is   for  you 
