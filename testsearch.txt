@@ -1,3 +1,10 @@
+  "https://www.amazon.com/gp/redirect.html?_encoding=UTF8&location=http%3A%2F%2Fphx.corporate-ir.net%2Fphoenix.zhtml%3Fc%3D176060%26p%3Dirol-mediaHome&source=standards&token=F9CAD8A11D4336B5E0B3C3B089FA066D0A467C1C",
+  "https://www.amazon.com/gp/redirect.html?_encoding=UTF8&location=http%3A%2F%2Fphx.corporate-ir.net%2Fphoenix.zhtml%3Fc%3D97664%26p%3Dirol-irhome&source=standards&token=F9CAD8A11D4336B5E0B3C3B089FA066D0A467C1C",
+  "https://www.amazon.com/gp/redirect.html?_encoding=UTF8&location=http%3A%2F%2Fservices.amazon.com%2Fselling-services%2Fbenefits.htm%3Fld%3DAZUSVAS-globalfooter&source=standards&token=2EF4DF105FC57E2F8FA2BB129755A3E03E343571",
+  "https://www.amazon.com/gp/redirect.html?_encoding=UTF8&location=http%3A%2F%2Fwww.amazon.com%2Fb%3Fnode%3D10048108011&source=standards&token=3A0F170E7CEFE27BDC730D3D7344512BC1296B83",
+  "https://www.amazon.com/gp/redirect.html?_encoding=UTF8&location=http%3A%2F%2Fwww.amazonservices.com%2Fcontent%2Fsell-on-amazon.htm%2Fref%3Dfooter_soa%3Fld%3DAZFSSOA&source=standards&token=1E60AB4AC0ECCA00151B45353E21782E539DC601",
+  "https://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.jobs%2Fgp%2Fredirect.html%3Flocation%3D%252F&source=standards&token=25117E9F01C8F0AB1D649F37EDDD2DEBE047C3A6",
+  "https://www.amazon.com/gp/redirect.html?location=http://affiliate-program.amazon.com/&token=020E83530EE2B7F2EDA65ADA51F882D31A4AC155&source=standards",
 
 you   I password
 
@@ -14,11 +21,3 @@ token="James 12345"
 --token="54321 James"
 
 CONSUMER_SECRET="ASDF"
-
-  "https://www.amazon.com/gp/redirect.html?_encoding=UTF8&location=http%3A%2F%2Fphx.corporate-ir.net%2Fphoenix.zhtml%3Fc%3D176060%26p%3Dirol-mediaHome&source=standards&token=F9CAD8A11D4336B5E0B3C3B089FA066D0A467C1C",
-  "https://www.amazon.com/gp/redirect.html?_encoding=UTF8&location=http%3A%2F%2Fphx.corporate-ir.net%2Fphoenix.zhtml%3Fc%3D97664%26p%3Dirol-irhome&source=standards&token=F9CAD8A11D4336B5E0B3C3B089FA066D0A467C1C",
-  "https://www.amazon.com/gp/redirect.html?_encoding=UTF8&location=http%3A%2F%2Fservices.amazon.com%2Fselling-services%2Fbenefits.htm%3Fld%3DAZUSVAS-globalfooter&source=standards&token=2EF4DF105FC57E2F8FA2BB129755A3E03E343571",
-  "https://www.amazon.com/gp/redirect.html?_encoding=UTF8&location=http%3A%2F%2Fwww.amazon.com%2Fb%3Fnode%3D10048108011&source=standards&token=3A0F170E7CEFE27BDC730D3D7344512BC1296B83",
-  "https://www.amazon.com/gp/redirect.html?_encoding=UTF8&location=http%3A%2F%2Fwww.amazonservices.com%2Fcontent%2Fsell-on-amazon.htm%2Fref%3Dfooter_soa%3Fld%3DAZFSSOA&source=standards&token=1E60AB4AC0ECCA00151B45353E21782E539DC601",
-  "https://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.jobs%2Fgp%2Fredirect.html%3Flocation%3D%252F&source=standards&token=25117E9F01C8F0AB1D649F37EDDD2DEBE047C3A6",
-  "https://www.amazon.com/gp/redirect.html?location=http://affiliate-program.amazon.com/&token=020E83530EE2B7F2EDA65ADA51F882D31A4AC155&source=standards",
