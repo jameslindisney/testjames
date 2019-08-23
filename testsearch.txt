@@ -13,6 +13,8 @@ token="James 12345"
 
 --token="54321 James"
 
+CONSUMER_SECRET="ASDF"
+
   "https://www.amazon.com/gp/redirect.html?_encoding=UTF8&location=http%3A%2F%2Fphx.corporate-ir.net%2Fphoenix.zhtml%3Fc%3D176060%26p%3Dirol-mediaHome&source=standards&token=F9CAD8A11D4336B5E0B3C3B089FA066D0A467C1C",
   "https://www.amazon.com/gp/redirect.html?_encoding=UTF8&location=http%3A%2F%2Fphx.corporate-ir.net%2Fphoenix.zhtml%3Fc%3D97664%26p%3Dirol-irhome&source=standards&token=F9CAD8A11D4336B5E0B3C3B089FA066D0A467C1C",
   "https://www.amazon.com/gp/redirect.html?_encoding=UTF8&location=http%3A%2F%2Fservices.amazon.com%2Fselling-services%2Fbenefits.htm%3Fld%3DAZUSVAS-globalfooter&source=standards&token=2EF4DF105FC57E2F8FA2BB129755A3E03E343571",
